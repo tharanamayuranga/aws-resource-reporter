@@ -153,7 +153,7 @@ aws configure
 
 Complete explanation with architecture diagrams and production best practices:
 
-👉 **[Read the full guide on Hashnode](https://tharana.hashnode.dev)**
+👉 **[Read the full guide on Hashnode]([https://tharana.hashnode.dev](https://tharana.hashnode.dev/automate-aws-resource-reporting-with-a-production-grade-bash-script-end-to-end))**
 
 ---
 
